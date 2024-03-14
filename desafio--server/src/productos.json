@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "salsa tomate",
+        "description": "los mas ricos",
+        "price": 150,
+        "img": "Sin imagen",
+        "code": "abc123",
+        "stock": 30
+    },
+    {
+        "id": 2,
+        "title": "arroz",
+        "description": "el que no se pasa",
+        "price": 250,
+        "img": "sin imagen",
+        "code": "abc124",
+        "stock": 30
+    },
+    {
+        "id": 3,
+        "title": "fideos",
+        "description": "el que no se pasa",
+        "price": 250,
+        "img": "sin imagen",
+        "code": "abc125",
+        "stock": 30
+    },
+    {
+        "id": 4,
+        "title": "pan",
+        "description": "el mejor del condado",
+        "price": 250,
+        "img": "sin imagen",
+        "code": "abc126",
+        "stock": 30
+    },
+    {
+        "id": 5,
+        "title": "Leche",
+        "description": "Leche fresca",
+        "price": 200,
+        "img": "Sin imagen",
+        "code": "abc127",
+        "stock": 20
+    },
+    {
+        "id": 6,
+        "title": "Huevos",
+        "description": "Docena de huevos frescos",
+        "price": 180,
+        "img": "Sin imagen",
+        "code": "abc128",
+        "stock": 25
+    },
+    {
+        "id": 7,
+        "title": "Queso",
+        "description": "Queso cheddar",
+        "price": 300,
+        "img": "Sin imagen",
+        "code": "abc129",
+        "stock": 15
+    },
+    {
+        "id": 8,
+        "title": "Carne",
+        "description": "1 kg de carne de res",
+        "price": 500,
+        "img": "Sin imagen",
+        "code": "abc130",
+        "stock": 10
+    },
+    {
+        "id": 9,
+        "title": "Cerveza",
+        "description": "Pack de 6 cervezas artesanales",
+        "price": 450,
+        "img": "Sin imagen",
+        "code": "abc131",
+        "stock": 15
+    },
+    {
+        "id": 10,
+        "title": "Manzanas",
+        "description": "1 kg de manzanas frescas",
+        "price": 120,
+        "img": "Sin imagen",
+        "code": "abc132",
+        "stock": 20
+    }
+]
