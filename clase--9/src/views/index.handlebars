@@ -1,0 +1,18 @@
+<h1>Bienvenidos! Estamos usando Express-Handlebars</h1>
+<h2>Mi nombre es {{usuario.nombre}} </h2>
+<h2>Mi apellido es {{usuario.apellido}} </h2>
+
+{{!-- Usamos condicionales --}}
+{{!-- ctrl + k + u --}}
+
+{{#if usuario.mayorEdad}}
+    <p>Es mayor de edad </p>
+{{else}}
+    <p>Es menor de edad </p>
+{{/if}}
+
+
+{{>card}}
+
+<script src="js/main.js"></script>
+
