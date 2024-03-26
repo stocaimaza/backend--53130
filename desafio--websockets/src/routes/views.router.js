@@ -14,4 +14,8 @@ router.get("/",  async (req, res) => {
 })
 
 
+router.get("/realtimeproducts",  (req, res) => {
+    res.render("realtimeproducts");
+})
+
 module.exports = router; 
