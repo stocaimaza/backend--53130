@@ -1,0 +1,82 @@
+[
+    {
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "email": "juan@perez.com",
+        "genero": "M",
+        "promedio" : 8.5,
+        "grupo": "1A"
+    },
+    {
+        "nombre": "Juana",
+        "apellido": "Lopez",
+        "email": "juana@lopez.com",
+        "genero": "F",
+        "promedio" : 8.5,
+        "grupo": "1A"
+    },
+    {
+        "nombre": "Pedro",
+        "apellido": "Gomez",
+        "email": "pedro@gomez.com",
+        "genero": "M",
+        "promedio" : 9.0,
+        "grupo": "1A"
+    },
+    {
+        "nombre": "Ana",
+        "apellido": "Martinez",
+        "email": "ana@martinez.com",
+        "genero": "F",
+        "promedio" : 8.0,
+        "grupo": "1A"
+    },
+    {
+        "nombre": "Luis",
+        "apellido": "Rodriguez",
+        "email": "luis@rodriguez.com",
+        "genero": "M",
+        "promedio" : 8.7,
+        "grupo": "1A"
+    },
+    {
+        "nombre": "Laura",
+        "apellido": "Garcia",
+        "email": "laura@garcia.com",
+        "genero": "F",
+        "promedio" : 9.2,
+        "grupo": "1A"
+    },
+    {
+        "nombre": "Carlos",
+        "apellido": "Hernandez",
+        "email": "carlos@hernandez.com",
+        "genero": "M",
+        "promedio" : 8.9,
+        "grupo": "1A"
+    },
+    {
+        "nombre": "Marta",
+        "apellido": "Diaz",
+        "email": "marta@diaz.com",
+        "genero": "F",
+        "promedio" : 8.3,
+        "grupo": "1A"
+    },
+    {
+        "nombre": "Javier",
+        "apellido": "Serrano",
+        "email": "javier@serrano.com",
+        "genero": "M",
+        "promedio" : 8.6,
+        "grupo": "1A"
+    },
+    {
+        "nombre": "Isabel",
+        "apellido": "Fernandez",
+        "email": "isabel@fernandez.com",
+        "genero": "F",
+        "promedio" : 9.1,
+        "grupo": "1A"
+    }
+]
