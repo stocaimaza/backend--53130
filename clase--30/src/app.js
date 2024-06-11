@@ -91,16 +91,16 @@ const transport = nodemailer.createTransport({
     port: 587,
     auth: {
         user: "coderhouse53130@gmail.com",
-        pass: "atyd hxsy nuly lrqe"
+        pass: "tu clave"
     }
 })
 
 
 //TWILIO: servicio que nos permite enviar SMS, WhatsApp, chatbots, mensajes pregrabados. 
 
-const TWILIO_ACCOUNT_SID = "ACc77c857ef17f96b31b423c0983498f20";
-const TWILIO_AUTH_TOKEN = "7bde721a02b3b13d2ca38ef9a93da81f";
-const TWILIO_SMS_NUMBER = "+12063094077";
+const TWILIO_ACCOUNT_SID = "aa";
+const TWILIO_AUTH_TOKEN = "bb";
+const TWILIO_SMS_NUMBER = "cc";
 
 
 //Instalamos: npm i twilio.
