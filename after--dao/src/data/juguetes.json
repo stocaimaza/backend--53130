@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Aro de Basquet ",
+    "categoria": "Deportes",
+    "precio": 30
+  },
+  {
+    "nombre": "Cocinita de Juguete",
+    "categoria": "Casita",
+    "precio": 300
+  },
+  {
+    "nombre": "Pistola Airsoft",
+    "categoria": "Juegos De Guerra",
+    "precio": 3000
+  }
+]
