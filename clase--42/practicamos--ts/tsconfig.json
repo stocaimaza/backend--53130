@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ES6",        // Compila el código a ECMAScript 6 (ES2015) o superior
+    "module": "commonjs",   // Usa módulos CommonJS para la compatibilidad
+    "outDir": "./dist",     // Directorio de salida para los archivos JavaScript compilados
+    "rootDir": "./src",     // Directorio raíz para los archivos TypeScript
+    "strict": true,         // Habilita todas las comprobaciones de tipo estrictas
+    "esModuleInterop": true // Habilita la interoperabilidad entre módulos CommonJS y ES6
+  }
+}
