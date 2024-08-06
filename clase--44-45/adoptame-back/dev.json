@@ -1,0 +1,72 @@
+[
+    {
+        "first_name": "Homer",
+        "last_name": "Simpson",
+        "email": "homer@example.com",
+        "password": "123456",
+        "role": "user"
+    },
+    {
+        "first_name": "Marge",
+        "last_name": "Simpson",
+        "email": "marge@example.com",
+        "password": "password",
+        "role": "user"
+    },
+    {
+        "first_name": "Bart",
+        "last_name": "Simpson",
+        "email": "bart@example.com",
+        "password": "qwerty",
+        "role": "user"
+    },
+    {
+        "first_name": "Lisa",
+        "last_name": "Simpson",
+        "email": "lisa@example.com",
+        "password": "password123",
+        "role": "user"
+    },
+    {
+        "first_name": "Maggie",
+        "last_name": "Simpson",
+        "email": "maggie@example.com",
+        "password": "abc123",
+        "role": "user"
+    },
+    {
+        "first_name": "Ned",
+        "last_name": "Flanders",
+        "email": "ned@example.com",
+        "password": "password456",
+        "role": "user"
+    },
+    {
+        "first_name": "Montgomery",
+        "last_name": "Burns",
+        "email": "burns@example.com",
+        "password": "burns123",
+        "role": "user"
+    },
+    {
+        "first_name": "Moe",
+        "last_name": "Szyslak",
+        "email": "moe@example.com",
+        "password": "moe456",
+        "role": "user"
+    },
+    {
+        "first_name": "Apu",
+        "last_name": "Nahasapeemapetilon",
+        "email": "apu@example.com",
+        "password": "apu789",
+        "role": "user"
+    },
+    {
+        "first_name": "Krusty",
+        "last_name": "the Clown",
+        "email": "krusty@example.com",
+        "password": "krusty321",
+        "role": "user"
+    }
+]

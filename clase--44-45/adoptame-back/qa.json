@@ -1,0 +1,30 @@
+[
+    {
+        "first_name": "Tinky",
+        "last_name": "Winky",
+        "email": "tinky@example.com",
+        "password": "tinky123",
+        "role": "user"
+    },
+    {
+        "first_name": "Dipsy",
+        "last_name": "",
+        "email": "dipsy@example.com",
+        "password": "dipsy456",
+        "role": "user"
+    },
+    {
+        "first_name": "Laa-Laa",
+        "last_name": "",
+        "email": "laalaa@example.com",
+        "password": "laalaa789",
+        "role": "user"
+    },
+    {
+        "first_name": "Po",
+        "last_name": "",
+        "email": "po@example.com",
+        "password": "po321",
+        "role": "user"
+    }
+]
